@@ -3,3 +3,5 @@
 # 대한민국에서 거주중입니다
 # 미필입니다
 # 교수님 사랑합니다.
+
+![KakaoTalk_20191204_115701035](https://user-images.githubusercontent.com/58497541/70110650-0f3ed100-1693-11ea-9982-08442b3c27e6.jpg)
