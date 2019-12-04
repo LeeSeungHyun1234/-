@@ -1,4 +1,4 @@
-```c
+````c
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <string.h>
@@ -6,9 +6,12 @@
 
 int main(void)
 {
+
+
   char string[80];
   
-  strcpy(string, "Hello world from");
+  
+  strcpy(string, "Hello my lovely World from");
   strcat(string, "strcpy");
   strcat(string, "and");
   strcat(string, "strcat");
